@@ -1,0 +1,56 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/4f/6d/05/4f6d052bb1b26150115888ea06d4c106.jpg");
+    font-family: cursive;
+    }
+h5{
+    color: #ffffff;
+}
+h1{
+    background-image: url("https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/05/Gryffindor-Banner-1920x960.jpg?q=50&fit=crop&w=960&h=500");
+    color:#ffa42c;
+    display: flex;
+    width:505;
+    padding: 100px;
+}
+#img2{
+    width : 200;
+    height : 200;
+
+}
+p{
+    color: #ffffff;
+}
+
+i{
+    background-color: #fffff0;
+}
+
+#facts{
+    color: white;
+    font-family: cursive;
+}
+#facts2{
+   list-style-type: armenian;
+}
+
+#game{
+    height: 200px;
+    width:30%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(61, 0, 85);
+    border-width: medium;
+}
+
+#questions{
+    width: 20%;
+    height:150px;
+    display: flexbox;
+    justify-content: center;
+    background: darkmagenta;
+}
+
+#MQuestions{
+    display: flex;
+    justify-content: space-evenly;
+}
